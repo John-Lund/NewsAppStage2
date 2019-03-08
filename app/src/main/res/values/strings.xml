@@ -1,0 +1,216 @@
+<resources>
+    <string name="app_name">NewsAppStage2</string>
+    <string name="no_server">Server not responding.   Please try later.</string>
+    <string name="no_internet">Please check   your internet connection</string>
+    <string name="bad_programming">Sorry.  Looks like this app sucks.</string>
+    <string name="graphic_element">graphic element</string>
+    <string name="guardian_logo">Guardian Logo</string>
+    <string name="latest_news_in_your_pocket">Latest News in your pocket</string>
+    <string name="pull_down_to_refresh">Pull Down to Refresh</string>
+    <string name="an_image_relating_to_the_news_story">An image relating to the news story</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="your_search_for">Your search for</string>
+
+    <string name="returned_no_results">returned no results.</string>
+    <string name="sections_key" translatable="false">sections_key</string>
+    <string name="search_key" translatable="false">search_key</string>
+    <string name="requests_key" translatable="false">requests_key</string>
+    <string name="settings">Settings</string>
+    <string name="not_known" translatable="false">not known</string>
+    <string name="us_news">US news</string>
+    <string name="all" translatable="false">all</string>
+    <string name="none" translatable="false">none</string>
+    <string name="section" translatable="false">section</string>
+    <string name="production_office" translatable="false">production-office</string>
+    <string name="uk" translatable="false">uk</string>
+    <string name="news" translatable="false">news</string>
+    <string name="order_by" translatable="false">order-by</string>
+    <string name="relevance" translatable="false">relevance</string>
+    <string name="show_fields" translatable="false">show-fields</string>
+    <string name="thumbnail" translatable="false">thumbnail</string>
+    <string name="page_size">page-size</string>
+    <string name="default_request_number" translatable="false">10</string>
+    <string name="show_tags" translatable="false">show-tags</string>
+    <string name="contributor" translatable="false">contributor</string>
+    <string name="q" translatable="false">q</string>
+    <string name="api_key" translatable="false">api-key</string>
+    <!-- todo: enter API key -->
+    <string name="key_api" translatable="false">[enter API key here]</string>
+    <string name="AND" translatable="false">AND</string>
+   <string name="ALL">All</string>
+    <string name="News">News</string>
+    <string name="World_News">World News</string>
+    <string name="UK_News">UK News</string>
+    <string name="Sport">Sport</string>
+    <string name="Football">Football</string>
+    <string name="Society">Society</string>
+    <string name="Culture">Culture</string>
+    <string name="Television_and_Radio">Television and Radio</string>
+    <string name="Environment">Environment</string>
+    <string name="Technology">Technology</string>
+    <string name="Games">Games</string>
+
+    <string name="all2">all</string>
+    <string name="news2">news</string>
+    <string name="world">world</string>
+    <string name="uk_news">uk-news</string>
+    <string name="us_news2">us-news</string>
+    <string name="sport">sport</string>
+    <string name="football">football</string>
+    <string name="society">society</string>
+    <string name="culture">culture</string>
+    <string name="tv_and_radio">tv-and-radio</string>
+    <string name="environment">environment</string>
+    <string name="technology">technology</string>
+    <string name="games">games</string>
+
+
+    <string name="r10_results">10 results</string>
+    <string name="r25_results">25 results</string>
+    <string name="r50_results">50 results</string>
+    <string name="r75_results">75 results</string>
+    <string name="r100_results">100 results</string>
+
+    <string name="value10">10</string>
+    <string name="value25">25</string>
+    <string name="value50">50</string>
+    <string name="value75">75</string>
+    <string name="value100">100</string>
+
+
+
+    <string name="news_colour_categories">US news World news News UK news Business UK politics Politics Environment Education Science
+    Global development </string>
+    <string name="opinion_colour_categories">Opinion The Guardian view Columnists Society Letters</string>
+
+    <string name="sports_colour_categories">Sport Football Rugby union Cricket Tennis Cycling
+    F1 Golf Boxing Rugby league Racing US sports</string>
+
+    <string name="culture_colour_categories">Technology Culture Media Film Music Television &amp; radio
+    Books Art &amp; design Art and design Stage Games Classical</string>
+
+    <string name="lifestyle_colour_categories">Lifestyle Life and style Fashion Food Recipes Travel
+    Health &amp; fitness Women Love &amp; sex Beauty Home &amp; garden Money Cars</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

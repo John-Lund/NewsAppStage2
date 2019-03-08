@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string-array name="guardian_section_names">
+        <item>@string/ALL</item>
+        <item>@string/News</item>
+        <item>@string/World_News</item>
+        <item>@string/UK_News</item>
+        <item>@string/us_news</item>
+        <item>@string/Sport</item>
+        <item>@string/Football</item>
+        <item>@string/Society</item>
+        <item>@string/Culture</item>
+        <item>@string/Television_and_Radio</item>
+        <item>@string/Environment</item>
+        <item>@string/Technology</item>
+        <item>@string/Games</item>
+    </string-array>
+
+    <string-array name="guardian_section_values">
+        <item>@string/all2</item>
+        <item>@string/news2</item>
+        <item>@string/world</item>
+        <item>@string/uk_news</item>
+        <item>@string/us_news2</item>
+        <item>@string/sport</item>
+        <item>@string/football</item>
+        <item>@string/society</item>
+        <item>@string/culture</item>
+        <item>@string/tv_and_radio</item>
+        <item>@string/environment</item>
+        <item>@string/technology</item>
+        <item>@string/games</item>
+    </string-array>
+
+    <string-array name="number_of_results_to_request_titles">
+        <item>@string/r10_results</item>
+        <item>@string/r25_results</item>
+        <item>@string/r50_results</item>
+        <item>@string/r75_results</item>
+        <item>@string/r100_results</item>
+    </string-array>
+
+    <string-array name="number_of_results_to_request_values">
+        <item>@string/value10</item>
+        <item>@string/value25</item>
+        <item>@string/value50</item>
+        <item>@string/value75</item>
+        <item>@string/value100</item>
+    </string-array>
+
+
+</resources>
+

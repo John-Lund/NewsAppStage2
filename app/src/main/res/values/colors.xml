@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#121212</color>
+    <color name="colorPrimaryDark">#121212</color>
+    <color name="colorAccent">#121212</color>
+
+    <color name="news">#c70000</color>
+    <color name="culture">#a1845c</color>
+    <color name="sports">#0084c6</color>
+    <color name="lifestyle">#bb3b80</color>
+    <color name="opinion">#e05e00</color>
+    <color name="unclassified">#616060</color>
+
+</resources>
