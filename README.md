@@ -13,7 +13,7 @@ Here's a video of the app:
 https://www.youtube.com/watch?v=CIS4mYzIpSE&t=32s
 
 
-### **UI Screenshot**
+### **UI Screenshots**
 
 ![image](https://user-images.githubusercontent.com/36385109/54090294-92343480-436a-11e9-9824-4e90fa9040fb.png)
 
